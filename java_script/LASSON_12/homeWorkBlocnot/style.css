@@ -1,0 +1,36 @@
+.notebook{
+    height: 600px;
+    width: 600px;
+    background-image: url("https://previews.123rf.com/images/wayoutwest/wayoutwest1007/wayoutwest100700042/7415239-old-lined-paper-in-a-notepad-.jpg");
+    background-repeat: no-repeat;
+   
+    }
+    .line-txt{
+    width: 200px;
+    height: 100px;
+    }
+    .form{    
+        display: flex;
+        justify-content: center;
+        gap: 25px;
+        align-items: center;
+    }
+
+    .btn-save{
+    background-color: lightgreen;
+    border-radius: 50%;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+    }
+    .table{
+    /* display: flex; */
+    padding: 0 95px;
+    height: 33px;
+    font-family: Arial, Helvetica, sans-serif;
+    /* align-items: center; */
+    
+    
+    
+    }

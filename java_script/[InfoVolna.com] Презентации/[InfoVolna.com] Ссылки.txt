@@ -1,0 +1,4 @@
+Правила оформления кода - https://netology-university.bitbucket.io/codestyle/javascript/
+Работа с отладкой в браузере - https://github.com/netology-code/bjs-2-homeworks/tree/main/0.debugger
+Диплом - https://github.com/netology-code/bjs-diplom
+ДЗ - https://github.com/netology-code/bjs-2-homeworks

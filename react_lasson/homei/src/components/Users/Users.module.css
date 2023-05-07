@@ -1,0 +1,27 @@
+.userCard{
+    background-color: rgb(64, 66, 66);
+    border-radius: 14px;
+    width: 350px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+}
+
+.image{
+    width: 300px;
+}
+
+.userList{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+p{
+    color: aliceblue;
+}
+
+.price, .title{
+    font-weight: bold;
+}

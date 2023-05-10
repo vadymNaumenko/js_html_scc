@@ -1,0 +1,44 @@
+.userCard{
+    background-color: rgb(1,105,144);
+    border-radius: 14px;
+    width: 250px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+}
+
+.UserImage{
+    width: 200px;
+    background-color: black;
+    border-radius: 30%;
+}
+.UserImage:hover{
+    width: 200px;
+    background-color: rgb(80, 130, 57);
+    border-radius: 30%;
+}
+
+.UserList{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 50px;
+    justify-content: center;
+}
+
+.userName, .userAge{
+    font-weight: bold;
+    color: black;
+}
+.userLink{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+.userLink:hover{
+    text-decoration: none;
+    color: rgb(234, 9, 9);
+}
+.beckImage{
+    background-image: url("https://rg.ru/uploads/images/2023/04/06/drevneyshaya-galaktika_d7f.jpg");
+}

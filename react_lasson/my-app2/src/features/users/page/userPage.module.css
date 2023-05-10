@@ -1,0 +1,15 @@
+.spanText{
+    font-size: 25px;
+}
+.forDivCard{
+display: flex;
+flex-direction: column;
+align-items: center;
+background-color: antiquewhite;
+}
+.divImage{
+background-image: url("https://kipmu.ru/wp-content/uploads/glktkchtk2.jpg");
+width: 100%;
+display: flex;
+justify-content: center;
+}

@@ -1,0 +1,59 @@
+.styleUl{
+    display: flex;
+    /*justify-content: center;*/
+    flex-wrap: wrap;
+    gap: 35px;
+}
+
+.styleLi{
+    /*height: 250px;*/
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    width: 250px;
+    background-color: antiquewhite;
+    border-radius: 2%;
+
+}
+.backImg{
+    background-image: url("https://travel.24tv.ua/resources/photos/news/202012/1484586.jpg?v=1661266345000");
+    background-repeat: no-repeat;
+    background-size: cover;
+    display:flex;
+    align-items: center;
+    flex-direction: column;
+}
+.detailsButton{
+    background-color: aqua;
+    text-decoration: none;
+    font-size: 20px;
+    border-radius: 25%;
+}
+.buttonDiv{
+    display: flex;
+    justify-content: space-between;
+}
+
+/* .productCard{
+    background-color: aqua;
+    border-radius: 14px;
+    width: 350px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+}
+
+.image{
+    width: 300px;
+}
+
+.productList{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.price, .title{
+    font-weight: bold;
+} */

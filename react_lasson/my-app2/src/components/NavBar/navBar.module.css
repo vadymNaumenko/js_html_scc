@@ -1,0 +1,24 @@
+.navTeg{
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    padding: 30px;
+    /*background-color: #33373e;*/
+    background-image: url("https://static.vecteezy.com/system/resources/previews/000/381/740/original/vector-abstract-technology-header-background.jpg");
+
+}
+.spanButton{
+    /*height: 50px;*/
+    background-color: aqua;
+    border-radius: 30%;
+    padding: 10px;
+}
+.spanButton:hover{
+    background-color: #6db905;
+}
+
+.navLinkText{
+    text-decoration: darkgoldenrod;
+    text-underline: none;
+    color: rgb(10, 8, 8);
+}
